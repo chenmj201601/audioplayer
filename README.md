@@ -1,2 +1,2 @@
 # audioplayer
-A html 5 audio player, support touch
+A html 5 audio player jquery plugin, support touch

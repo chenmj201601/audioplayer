@@ -1,0 +1,32 @@
+{
+  "name": "audioplayer",
+  "version": "1.0.0",
+  "description": "A html 5 audio player, support touch.",
+  "main": "index.js",
+  "scripts": {
+    "build": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenmj201601/audioplayer.git"
+  },
+  "keywords": [
+    "Audio",
+    "Player",
+    "JavaScript",
+    "HTML5"
+  ],
+  "author": "Charley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenmj201601/audioplayer/issues"
+  },
+  "homepage": "https://github.com/chenmj201601/audioplayer#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.1.0"
+  }
+}
